@@ -3,7 +3,9 @@ body {
   color: #0B2239;
   margin: 0;
   text-align: center;
-  font-family: 'Merriweather', serif;
+  font-family: adobe-garamond-pro, serif;
+  font-weight: 300;
+  font-size: 21px;
 }
 
 h1 {
@@ -15,11 +17,12 @@ h1 {
 
 h2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
 }
 
 p {
@@ -44,8 +47,8 @@ a:hover {
 }
 
 .top-container {
-  height: 715.20px;
   width: auto;
+  height: 715.20px;
 }
 
 .middle-container {
